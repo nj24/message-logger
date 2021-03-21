@@ -19,5 +19,5 @@ Set up a Run Configuration as follows:
 | Program  |application.properties |
 | Working directory | \<root of the message-logger codebase> |
 
-### APIs Documentation
+### API Documentation
 http://localhost:8080/swagger-ui/index.htm
